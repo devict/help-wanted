@@ -9,3 +9,5 @@ Volunteering is rewarding. It is also a lot of work. Many of the event coordinat
 But while our volunteers may be temporarily tapped out, our ideas certainly aren't! Our community continues to grow, and we see nothing but great things for devICT going forward.
 
 With that in mind, we want to make sure we are making volunteering as "easy" as possible for anyone willing to donate their time and effort. We have created several volunteer "roles" in this repo's issues. If you are interested in helping out but don't know how, start here! Just read the issue and join in via the issue thread. Most of these roles are fairly "meaty", but each issue will end up with dozens of smaller tasks. If you like the concept but aren't able to fill a leadership role, that's cool too!
+
+**[Browse the Issues](https://github.com/devict/help-wanted/issues)**
